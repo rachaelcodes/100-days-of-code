@@ -11,6 +11,6 @@
 * Upload existing work to the styling randomizer
 * Keep practicing CodeWars
 
-**Link to work:** [My page](https://rachaelcodes.github.io/) [Project page](https://rachaelcodes.github.io/styling-randomizer/) 
+**Links to work:** [My page](https://rachaelcodes.github.io/) & [Project page](https://rachaelcodes.github.io/styling-randomizer/) 
 
 
