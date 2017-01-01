@@ -2,15 +2,14 @@
 
 ### Day 2: January 1, 2016 
 
-**Today's Progress:** Completed first 6kyu challenge on CodeWars - BitCounting. Updating this log via GitHub desktop.
+**Today's Progress:** Completed first 6kyu challenge on CodeWars - BitCounting. Updating this log via GitHub desktop. Also, added licence to the GitHub profile page.
 
 **Thoughts:** My experience of pair programming last month taught me a lot: using repl.it and console.log to test parts of code; I've also commented more carefully.  
 
-**Next Steps:** Mostly unchanged from yesterday
-* Add a licence and an 'ignore' file to the main GitHub profile page.
+**Next Steps:**
 * Upload existing work to the styling randomizer
 * Keep practicing CodeWars
-* Learn about using the command-line for working in GitHub
+* Learn about using the command-line for working in GitHub, then add 'ignore' files [advice](https://help.github.com/articles/ignoring-files/)
 
 **Links to work:** [Codewars solutions](https://www.codewars.com/users/curiousrabbit/completed_solutions)
 
