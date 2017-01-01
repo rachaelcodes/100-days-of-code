@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 ### Day 2: January 1, 2016 
-**UPDATE** Completed an extra Codewars kata - a 5kyu one!
+**UPDATE:** Completed an extra Codewars kata - a 5kyu one!
 
 **Today's Progress:** Completed first 6kyu challenge on CodeWars - BitCounting. Updating this log via GitHub desktop. Also, added licence to the GitHub profile page.
 
