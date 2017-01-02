@@ -1,4 +1,17 @@
 # 100 Days Of Code - Log
+### Day 3: January 2, 2016
+**Today's Progress:** Learnt how to use the Terminal. Then how to use the Terminal to add to projects on GitHub - added old styling randomizer files. Also added another [Enlight.ml](https://enlight.ml/) project folder to a new repo on GitHub - again, using the Terminal.
+
+**Thoughts:** How will I remember all those shortcuts? I guess I'll be returning a lot to Terminal how-tos. 
+I think there are some things I'll always prefer doing not on Terminal (e.g. copying files) - in some ways, I work quite visually. I guess it's about whatever leads to the tidiest workflow. Also, it doesn't do well with file names including spaces. Speech marks seemed OK as a workaround, but it's something I'll bear in mind when naming directories in the future.
+Also, I made a very minor (>1 line of code) change to a file, which didn't get picked up as a change on either GitHub Desktop or in the Terminal. 
+
+**Next Steps:**
+* Make changes to styling randomizer (leave text editor for now)
+* Keep practicing CodeWars
+* add 'ignore' files [advice](https://help.github.com/articles/ignoring-files/) to landing page; all 'starter' files to the text-editor repo
+
+**Links to work:** [Text Editor](https://github.com/rachaelcodes/text-editor) - it's a real mess at the moment.
 
 ### Day 2: January 1, 2016 
 **UPDATE:** Completed an extra Codewars kata - a 5kyu one!
