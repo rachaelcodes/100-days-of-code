@@ -1,8 +1,22 @@
 # 100 Days Of Code - Log
+### Day 4: January 3, 2016
+**Today's Progress:** Decided I wanted to use flexbox in the styling-randomizer; used [Flexbox Froggy](http://flexboxfroggy.com/) to learn it; did. Found I had a conflict between GitHub and home directory; sorted that. Created a help box for the styling-randomizer (looking up HTML5 alternatives to divs), but formatting still a bit horrible.
+
+**Thoughts:** I really like using projects to determine what skills I develop when. Unfortunately, various other hitches meant that I didn't really get the flexbox styling as I'd like it. Will probably need to revise tomorrow.
+
+As expected, I needed reminders for using the Terminal commands. Formatting problems also raised the issue of websites rendering very differently in different browsers - a reminder to try it out in more than one, as well as considering universality of different features. 
+
+**Next Steps:**
+* Sort out the 'help' box formatting
+* Keep practicing CodeWars
+* add 'ignore' files [advice](https://help.github.com/articles/ignoring-files/) to landing page; all 'starter' files to the text-editor repo
+
+**Links to work:** [Styling Randomizer](https://rachaelcodes.github.io/styling-randomizer/)
+
 ### Day 3: January 2, 2016
 **Today's Progress:** Learnt how to use the Terminal. Then how to use the Terminal to add to projects on GitHub - added old styling randomizer files. Also added another [Enlight.ml](https://enlight.ml/) project folder to a new repo on GitHub - again, using the Terminal.
 
-**Thoughts:** How will I remember all those shortcuts? I guess I'll be returning a lot to Terminal how-tos. 
+**Thoughts:** How will I remember all those commands? I guess I'll be returning a lot to Terminal how-tos. 
 I think there are some things I'll always prefer doing not on Terminal (e.g. copying files) - in some ways, I work quite visually. I guess it's about whatever leads to the tidiest workflow. Also, it doesn't do well with file names including spaces. Speech marks seemed OK as a workaround, but it's something I'll bear in mind when naming directories in the future.
 Also, I made a very minor (>1 line of code) change to a file, which didn't get picked up as a change on either GitHub Desktop or in the Terminal. 
 
