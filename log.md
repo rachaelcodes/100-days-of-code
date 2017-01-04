@@ -1,4 +1,16 @@
 # 100 Days Of Code - Log
+### Day 5: January 4, 2016
+**Today's Progress:** Took a break from projects for some CodeWars practice. Which didn't go very well. Thought I nearly had it, then ended up with the error messages I couldn't parse.
+
+**Thoughts:** Disappointing day. It might be one where it's worth coming back to when I have a bit more knowledge. (Or next time I'm at a pair coding session)
+
+**Next Steps:**
+* Sort out the 'help' box formatting
+* Keep practicing CodeWars (and ask for advice about today's kata)
+* add 'ignore' files [advice](https://help.github.com/articles/ignoring-files/) to landing page; all 'starter' files to the text-editor repo
+
+**Links to work:** not really worth it for today - it's on my CodeWars page (linked elsewhere)
+
 ### Day 4: January 3, 2016
 **Today's Progress:** Decided I wanted to use flexbox in the styling-randomizer; used [Flexbox Froggy](http://flexboxfroggy.com/) to learn it; did. Found I had a conflict between GitHub and home directory; sorted that. Created a help box for the styling-randomizer (looking up HTML5 alternatives to divs), but formatting still a bit horrible.
 
