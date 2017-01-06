@@ -1,4 +1,17 @@
 # 100 Days Of Code - Log
+### Day 7: January 6, 2016
+**Today's Progress:** Completed the features of the styling randomizer. I could do more styling on it, but I want to focus on JS at the moment.
+
+**Thoughts:** First project seen all the way through! Woop!
+
+**Next Steps:**
+* Choose next project!
+* Keep practicing CodeWars
+* add 'ignore' files [advice](https://help.github.com/articles/ignoring-files/) to landing page; all 'starter' files to the text-editor repo
+
+**Links to work:** [Styling Randomizer](https://rachaelcodes.github.io/styling-randomizer/)
+
+
 ### Day 6: January 5, 2016
 **Today's Progress:** Updated the container formatting of the styling randomizer (including using new flexbox knowledge). Added a new color change option with a 'focus' box. 
 
