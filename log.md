@@ -1,4 +1,17 @@
 # 100 Days Of Code - Log
+
+### Day 8: January 7, 2016 
+**Today's Progress:** Reached 6kyu on Codewars.
+
+**Thoughts:** Satisfying levelling up. But have been struggling to focus after that. Tried a video tutorial for a js app, but think text works better for me.
+
+**Next Steps:**
+* Choose next project (still!)
+* Keep practicing CodeWars
+* Learn about using the command-line for working in GitHub, then add 'ignore' files [advice](https://help.github.com/articles/ignoring-files/)
+
+**Links to work:** [Codewars solutions](https://www.codewars.com/users/curiousrabbit/completed_solutions)
+
 ### Day 7: January 6, 2016
 **Today's Progress:** Completed the features of the styling randomizer. I could do more styling on it, but I want to focus on JS at the moment.
 
