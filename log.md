@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 9: January 9, 2016 
+**Today's Progress:** Not a lot finished, but revised Regexp for Codewars.
+
+**Thoughts:**  Tried the video tutorial again, but I don't think I'm at the right level yet, plus I prefer something that encourages more experimentation. Might take some ideas from them when I have a bit more JS knowledge,
+
+**Next Steps:**
+* Choose next project (still!). Enlight.ml tutorials seem to work for me - they are pitched at about my level, so I learn enough to start experimenting further, but don't forget the mountain of new terms.
+* Keep practicing CodeWars
+* Learn about using the command-line for working in GitHub, then add 'ignore' files [advice](https://help.github.com/articles/ignoring-files/)
+
 ### Day 8: January 7, 2016 
 **Today's Progress:** Reached 6kyu on Codewars.
 
