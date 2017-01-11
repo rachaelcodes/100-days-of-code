@@ -1,5 +1,28 @@
 # 100 Days Of Code - Log
 
+### Day 11: January 11, 2016 
+**Today's Progress:** Started new project.
+
+**Thoughts:** Had a go at a weather app, with guidance from enlight.ml - I'm looking at the steps and having a go at solving them first, before checking against the example. Finding I'm able to do more this time straight away.
+
+**Next Steps:**
+* Continue working on weather app (and CSS30 when I get the emails)
+* Keep practicing CodeWars
+* Learn about using the command-line for working in GitHub, then add 'ignore' files [advice](https://help.github.com/articles/ignoring-files/)
+
+**Links to work:** [Weather app - unfinished and very buggy](https://rachaelcodes.github.io/weathering/)
+
+
+### Day 10: January 10, 2016 
+**Today's Progress:** Paired programming: supported a JS beginner, helping her debug her code
+
+**Thoughts:** I enjoyed helping someone think through their code, a reminder of where I've come from, and helped clarify the things I was less sure about (return only works once, right?)
+
+**Next Steps:**
+* Choose next project (the CSS 30 challenge looks interesting)
+* Keep practicing CodeWars
+* Learn about using the command-line for working in GitHub, then add 'ignore' files [advice](https://help.github.com/articles/ignoring-files/)
+
 ### Day 9: January 9, 2016 
 **Today's Progress:** Not a lot finished, but revised Regexp for Codewars.
 
