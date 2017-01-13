@@ -1,5 +1,29 @@
 # 100 Days Of Code - Log
 
+### Day 13: January 13, 2016 
+**Today's Progress:** Finished CSS cheetah cub (for now). Basics of weather app in place and functioning!
+
+**Thoughts:** So I hadn't got a lot of the steps on the weather app right (especially JSON - definitely need some revision on that), though I also found myself debugging some of the steps suggested by Enlight. 
+
+**Next Steps:**
+* Complete cub on CSS; continue working on weathering app - expanding functionality with different elements of Dark Sky API (maybe also an image function using Unsplash's API)
+* Keep practicing CodeWars
+* Learn about using the command-line for working in GitHub, then add 'ignore' files [advice](https://help.github.com/articles/ignoring-files/)
+
+**Links to work:** [Daily CSS #1: Cheetah cub](http://codepen.io/rachaelcodes/full/wgGZVX/) [Weather app](https://rachaelcodes.github.io/weathering/)
+
+### Day 12: January 12, 2016 
+**Today's Progress:** Had a go at Daily CSS challenge (I won't be actually doing it daily).
+
+**Thoughts:** Definitely over-complicated it - but I have my sketches to return to when I'm stronger at CSS. 
+
+**Next Steps:**
+* Complete cub on CSS; continue working on weathering app
+* Keep practicing CodeWars
+* Learn about using the command-line for working in GitHub, then add 'ignore' files [advice](https://help.github.com/articles/ignoring-files/)
+
+**Links to work:** [Daily CSS #1: Cheetah cub](http://codepen.io/rachaelcodes/full/wgGZVX/)
+
 ### Day 11: January 11, 2016 
 **Today's Progress:** Started new project.
 
