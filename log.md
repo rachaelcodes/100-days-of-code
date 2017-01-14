@@ -1,12 +1,24 @@
 # 100 Days Of Code - Log
 
+### Day 14: January 14, 2016 
+**Today's Progress:** Finished a couple of Codewars challenges I'd left ages ago
+
+**Thoughts:** It's nice to return to old unfinished things to see how much I've learned. Progress can still feel slow, though. There was one I found tricky because I couldn't even understand how they'd defined the function. Definitely something to get back to 
+
+**Next Steps:**
+* Continue working on weathering app - expanding functionality with different elements of Dark Sky API (maybe also an image function using Unsplash's API)
+* Keep practicing CodeWars (and look up how they've defined the function in the one I found weird)
+* Learn about using the command-line for working in GitHub, then add 'ignore' files [advice](https://help.github.com/articles/ignoring-files/)
+
+**Links to work:** [Codewars solutions](https://www.codewars.com/users/curiousrabbit/completed_solutions)
+
 ### Day 13: January 13, 2016 
 **Today's Progress:** Finished CSS cheetah cub (for now). Basics of weather app in place and functioning!
 
 **Thoughts:** So I hadn't got a lot of the steps on the weather app right (especially JSON - definitely need some revision on that), though I also found myself debugging some of the steps suggested by Enlight. 
 
 **Next Steps:**
-* Complete cub on CSS; continue working on weathering app - expanding functionality with different elements of Dark Sky API (maybe also an image function using Unsplash's API)
+* Continue working on weathering app - expanding functionality with different elements of Dark Sky API (maybe also an image function using Unsplash's API)
 * Keep practicing CodeWars
 * Learn about using the command-line for working in GitHub, then add 'ignore' files [advice](https://help.github.com/articles/ignoring-files/)
 
