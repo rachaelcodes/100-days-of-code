@@ -6,7 +6,7 @@
 **Thoughts:** It's funny how much can be solved with a simple fix - I thought I'd called on API data incorrectly and didn't really understand the process, when it turned out I'd forgotten to use "" in a switch case string. 
 
 **Next Steps:**
-* Find new app project, CSS images day 2 
+* Work on new app project (turning text editor into a character counter?), CSS images day 2 
 * Keep practicing CodeWars (and look up how they've defined the function in the one I found weird)
 * add 'ignore' files [advice](https://help.github.com/articles/ignoring-files/) etc to all projects
 
