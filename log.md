@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 15: January 15, 2016 
+**Today's Progress:** Finished styling of basic weather app (with random pictures tied to weather conditions)
+
+**Thoughts:** It's funny how much can be solved with a simple fix - I thought I'd called on API data incorrectly and didn't really understand the process, when it turned out I'd forgotten to use "" in a switch case string. 
+
+**Next Steps:**
+* Find new app project, CSS images day 2 
+* Keep practicing CodeWars (and look up how they've defined the function in the one I found weird)
+* add 'ignore' files [advice](https://help.github.com/articles/ignoring-files/) etc to all projects
+
+**Links to work:** [Weather app](https://rachaelcodes.github.io/weathering/)
+
 ### Day 14: January 14, 2016 
 **Today's Progress:** Finished a couple of Codewars challenges I'd left ages ago
 
@@ -8,7 +20,7 @@
 **Next Steps:**
 * Continue working on weathering app - expanding functionality with different elements of Dark Sky API (maybe also an image function using Unsplash's API)
 * Keep practicing CodeWars (and look up how they've defined the function in the one I found weird)
-* Learn about using the command-line for working in GitHub, then add 'ignore' files [advice](https://help.github.com/articles/ignoring-files/)
+* add 'ignore' files [advice](https://help.github.com/articles/ignoring-files/)
 
 **Links to work:** [Codewars solutions](https://www.codewars.com/users/curiousrabbit/completed_solutions)
 
@@ -20,7 +32,7 @@
 **Next Steps:**
 * Continue working on weathering app - expanding functionality with different elements of Dark Sky API (maybe also an image function using Unsplash's API)
 * Keep practicing CodeWars
-* Learn about using the command-line for working in GitHub, then add 'ignore' files [advice](https://help.github.com/articles/ignoring-files/)
+* add 'ignore' files [advice](https://help.github.com/articles/ignoring-files/)
 
 **Links to work:** [Daily CSS #1: Cheetah cub](http://codepen.io/rachaelcodes/full/wgGZVX/) [Weather app](https://rachaelcodes.github.io/weathering/)
 
@@ -32,7 +44,7 @@
 **Next Steps:**
 * Complete cub on CSS; continue working on weathering app
 * Keep practicing CodeWars
-* Learn about using the command-line for working in GitHub, then add 'ignore' files [advice](https://help.github.com/articles/ignoring-files/)
+* add 'ignore' files [advice](https://help.github.com/articles/ignoring-files/)
 
 **Links to work:** [Daily CSS #1: Cheetah cub](http://codepen.io/rachaelcodes/full/wgGZVX/)
 
@@ -44,7 +56,7 @@
 **Next Steps:**
 * Continue working on weather app (and CSS30 when I get the emails)
 * Keep practicing CodeWars
-* Learn about using the command-line for working in GitHub, then add 'ignore' files [advice](https://help.github.com/articles/ignoring-files/)
+* add 'ignore' files [advice](https://help.github.com/articles/ignoring-files/)
 
 **Links to work:** [Weather app - unfinished and very buggy](https://rachaelcodes.github.io/weathering/)
 
@@ -57,7 +69,7 @@
 **Next Steps:**
 * Choose next project (the CSS 30 challenge looks interesting)
 * Keep practicing CodeWars
-* Learn about using the command-line for working in GitHub, then add 'ignore' files [advice](https://help.github.com/articles/ignoring-files/)
+* add 'ignore' files [advice](https://help.github.com/articles/ignoring-files/)
 
 ### Day 9: January 9, 2016 
 **Today's Progress:** Not a lot finished, but revised Regexp for Codewars.
@@ -67,7 +79,7 @@
 **Next Steps:**
 * Choose next project (still!). Enlight.ml tutorials seem to work for me - they are pitched at about my level, so I learn enough to start experimenting further, but don't forget the mountain of new terms.
 * Keep practicing CodeWars
-* Learn about using the command-line for working in GitHub, then add 'ignore' files [advice](https://help.github.com/articles/ignoring-files/)
+* add 'ignore' files [advice](https://help.github.com/articles/ignoring-files/)
 
 ### Day 8: January 7, 2016 
 **Today's Progress:** Reached 6kyu on Codewars.
@@ -77,7 +89,7 @@
 **Next Steps:**
 * Choose next project (still!)
 * Keep practicing CodeWars
-* Learn about using the command-line for working in GitHub, then add 'ignore' files [advice](https://help.github.com/articles/ignoring-files/)
+* add 'ignore' files [advice](https://help.github.com/articles/ignoring-files/)
 
 **Links to work:** [Codewars solutions](https://www.codewars.com/users/curiousrabbit/completed_solutions)
 
