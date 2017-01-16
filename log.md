@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 16: January 16, 2016 
+**Today's Progress:** #dailycssimages number 2 - an elephant
+
+**Thoughts:** I did the elephant in silhouette, to focus on the shapes. Still not really happy with it. I'm finding this an unbelieveably fiddly process - not sure it is for me. But is definitely getting me to think about simplifying shapes (what's the minimum number of shapes/elements to make it clear what it is AND visually appealing (ok, maybe I should aim for the first!))
+
+**Next Steps:**
+* Work on new app project (turning text editor into a character counter?), CSS images day 3 
+* Keep practicing CodeWars (and look up how they've defined the function in the one I found weird)
+* add 'ignore' files [advice](https://help.github.com/articles/ignoring-files/) etc to all projects
+
+**Links to work:** [CSS image 2 - elephant](http://codepen.io/rachaelcodes/full/WRGVRov)
+
 ### Day 15: January 15, 2016 
 **Today's Progress:** Finished styling of basic weather app (with random pictures tied to weather conditions)
 
