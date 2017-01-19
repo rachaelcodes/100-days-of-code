@@ -1,4 +1,16 @@
 # 100 Days Of Code - Log
+### Day 17: January 19, 2016 
+**Today's Progress:** Made a character counting app (adapting from enlight's text editor).
+
+**Thoughts:** For the first time, I've created something that I needed to use and realised I could make. The basic functionality is there, though I could tart it up a bit - particularly if I get more confident with CSS images, as it's crying out for a mock Dracula logo.
+(Yes, I missed two days, I know it should mean I'm off the challenge. But I want to keep going. I've actually missed this a lot.)
+
+**Next Steps:**
+* Work on new app project (random writing prompt generator), CSS images day 3 
+* Keep practicing CodeWars (and look up how they've defined the function in the one I found weird)
+* add 'ignore' files [advice](https://help.github.com/articles/ignoring-files/) etc to all projects
+
+**Links to work:** [character counting app](https://rachaelcodes.github.io/Count-Characula/)
 
 ### Day 16: January 16, 2016 
 **Today's Progress:** #dailycssimages number 2 - an elephant
