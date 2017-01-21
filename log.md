@@ -1,4 +1,15 @@
 # 100 Days Of Code - Log
+### Day 18: January 20, 2016
+**Today's Progress:** JavaScript problem solving (with Eloquent Javascript)
+
+**Thoughts:** Coding offline was a useful way to point out what I didn't remember about syntax
+
+**Next Steps:**
+* Work on new app project (random writing prompt generator), CSS images day 3 
+* Keep practicing CodeWars (and look up how they've defined the function in the one I found weird)
+* add 'ignore' files [advice](https://help.github.com/articles/ignoring-files/) etc to all projects
+
+
 ### Day 17: January 19, 2016 
 **Today's Progress:** Made a character counting app (adapting from enlight's text editor).
 
