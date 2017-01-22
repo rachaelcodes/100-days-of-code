@@ -1,4 +1,16 @@
 # 100 Days Of Code - Log
+### Day 19: January 21, 2016 
+**Today's Progress:** Finished another Codewars challenge. Also started work on creating flashcards for revising JS basics
+
+**Thoughts:** The maths of the problem was probably the hardest part - reminds me of how little algebra I've done (my maths problem-solving brain is a bit rusty at the moment)
+
+**Next Steps:**
+* Work on new app project (probably random writing prompt generator), CSS daily images day 3
+* Keep practicing CodeWars (and look up how they've defined the function in the one I found weird); perhaps look out for more problems that involve mathematical thinking
+* add 'ignore' files [advice](https://help.github.com/articles/ignoring-files/)
+
+**Links to work:** [Codewars solutions](https://www.codewars.com/users/curiousrabbit/completed_solutions)
+
 ### Day 18: January 20, 2016
 **Today's Progress:** JavaScript problem solving (with Eloquent Javascript)
 
