@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
-### Day 20: January 23, 2016 
+### Day 23: January 26, 2016 
+**Today's Progress:** Took API off git for weathering app. Started work on quote app.
+
+**Thoughts:** Need to change API source to one that doesn't charge for projects hosted on Git
+
+**Next Steps:**
+* Change API source to openweather, next stages of quote app, CSS daily images day 3
+* Keep practicing CodeWars (and look up how they've defined the function in the one I found weird); perhaps look out for more problems that involve mathematical thinking
+* add 'ignore' files [advice](https://help.github.com/articles/ignoring-files/)
+
+**Links to work:** Quote app - not committed yet
+
+### Days 20-22: January 23-25, 2016 
 **Today's Progress:** simple JS algorithm challenges; revising the methods I've been practicing
 
 **Thoughts:** Some better memory than before - still a WIP. 
