@@ -1,4 +1,16 @@
 # 100 Days Of Code - Log
+### Day 24: January 29, 2016 
+**Today's Progress:** Formatting for quote app.
+
+**Thoughts:** Hadn't read API documentation properly, so missed that the function I was trying to use needed a paid account.
+
+**Next Steps:**
+* Change API source to openweather, next stages of quote app, CSS daily images day 3
+* Keep practicing CodeWars (and look up how they've defined the function in the one I found weird); perhaps look out for more problems that involve mathematical thinking
+* add 'ignore' files [advice](https://help.github.com/articles/ignoring-files/)
+
+**Links to work:** [GitHub repository for quote app](https://github.com/rachaelcodes/quoted) 
+
 ### Day 23: January 26, 2016 
 **Today's Progress:** Took API off git for weathering app. Started work on quote app.
 
