@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
-### Day 24: January 29, 2016 
+### Day 25: Feb 1, 2017 
+**Today's Progress:** Not really coding, but preparing collections on Unsplash for writing prompt generator
+
+**Thoughts:** Have fallen off 100daysofcode wagon, but missed it, so got back on again
+
+**Next Steps:**
+* Create repo for writing prompt generator, add divs with images
+* Change API source to openweather, next stages of quote app, CSS daily images day 3
+* Keep practicing CodeWars (and look up how they've defined the function in the one I found weird); perhaps look out for more problems that involve mathematical thinking
+* add 'ignore' files [advice](https://help.github.com/articles/ignoring-files/)
+
+**Links to work:** [Unsplash collections](https://unsplash.com/@rachaelcodes/collections) 
+
+
+### Day 24: January 29 
 **Today's Progress:** Formatting for quote app.
 
 **Thoughts:** Hadn't read API documentation properly, so missed that the function I was trying to use needed a paid account.
@@ -23,7 +37,7 @@
 
 **Links to work:** Quote app - not committed yet
 
-### Days 20-22: January 23-25, 2016 
+### Days 20-22: January 23-25 
 **Today's Progress:** simple JS algorithm challenges; revising the methods I've been practicing
 
 **Thoughts:** Some better memory than before - still a WIP. 
@@ -35,7 +49,7 @@
 
 **Links to work:** [Freecodecamp profile](https://www.freecodecamp.com/rachaelcodes)
 
-### Day 19: January 22, 2016 
+### Day 19: January 22
 **Today's Progress:** Finished another Codewars challenge. Also started work on creating flashcards for revising JS basics
 
 **Thoughts:** The maths of the problem was probably the hardest part - reminds me of how little algebra I've done (my maths problem-solving brain is a bit rusty at the moment)
@@ -47,7 +61,7 @@
 
 **Links to work:** [Codewars solutions](https://www.codewars.com/users/curiousrabbit/completed_solutions)
 
-### Day 18: January 21, 2016
+### Day 18: January 21
 **Today's Progress:** JavaScript problem solving (with Eloquent Javascript)
 
 **Thoughts:** Coding offline was a useful way to point out what I didn't remember about syntax
@@ -58,7 +72,7 @@
 * add 'ignore' files [advice](https://help.github.com/articles/ignoring-files/) etc to all projects
 
 
-### Day 17: January 19, 2016 
+### Day 17: January 19
 **Today's Progress:** Made a character counting app (adapting from enlight's text editor).
 
 **Thoughts:** For the first time, I've created something that I needed to use and realised I could make. The basic functionality is there, though I could tart it up a bit - particularly if I get more confident with CSS images, as it's crying out for a mock Dracula logo.
@@ -71,7 +85,7 @@
 
 **Links to work:** [character counting app](https://rachaelcodes.github.io/Count-Characula/)
 
-### Day 16: January 16, 2016 
+### Day 16: January 16
 **Today's Progress:** #dailycssimages number 2 - an elephant
 
 **Thoughts:** I did the elephant in silhouette, to focus on the shapes. Still not really happy with it. I'm finding this an unbelieveably fiddly process - not sure it is for me. But is definitely getting me to think about simplifying shapes (what's the minimum number of shapes/elements to make it clear what it is AND visually appealing (ok, maybe I should aim for the first!))
@@ -83,7 +97,7 @@
 
 **Links to work:** [CSS image 2 - elephant](http://codepen.io/rachaelcodes/full/WRGVRov)
 
-### Day 15: January 15, 2016 
+### Day 15: January 15
 **Today's Progress:** Finished styling of basic weather app (with random pictures tied to weather conditions)
 
 **Thoughts:** It's funny how much can be solved with a simple fix - I thought I'd called on API data incorrectly and didn't really understand the process, when it turned out I'd forgotten to use "" in a switch case string. 
@@ -95,7 +109,7 @@
 
 **Links to work:** [Weather app](https://rachaelcodes.github.io/weathering/)
 
-### Day 14: January 14, 2016 
+### Day 14: January 14 
 **Today's Progress:** Finished a couple of Codewars challenges I'd left ages ago
 
 **Thoughts:** It's nice to return to old unfinished things to see how much I've learned. Progress can still feel slow, though. There was one I found tricky because I couldn't even understand how they'd defined the function. Definitely something to get back to 
@@ -107,7 +121,7 @@
 
 **Links to work:** [Codewars solutions](https://www.codewars.com/users/curiousrabbit/completed_solutions)
 
-### Day 13: January 13, 2016 
+### Day 13: January 13
 **Today's Progress:** Finished CSS cheetah cub (for now). Basics of weather app in place and functioning!
 
 **Thoughts:** So I hadn't got a lot of the steps on the weather app right (especially JSON - definitely need some revision on that), though I also found myself debugging some of the steps suggested by Enlight. 
@@ -119,7 +133,7 @@
 
 **Links to work:** [Daily CSS #1: Cheetah cub](http://codepen.io/rachaelcodes/full/wgGZVX/) [Weather app](https://rachaelcodes.github.io/weathering/)
 
-### Day 12: January 12, 2016 
+### Day 12: January 12 
 **Today's Progress:** Had a go at Daily CSS challenge (I won't be actually doing it daily).
 
 **Thoughts:** Definitely over-complicated it - but I have my sketches to return to when I'm stronger at CSS. 
@@ -131,7 +145,7 @@
 
 **Links to work:** [Daily CSS #1: Cheetah cub](http://codepen.io/rachaelcodes/full/wgGZVX/)
 
-### Day 11: January 11, 2016 
+### Day 11: January 11 
 **Today's Progress:** Started new project.
 
 **Thoughts:** Had a go at a weather app, with guidance from enlight.ml - I'm looking at the steps and having a go at solving them first, before checking against the example. Finding I'm able to do more this time straight away.
@@ -144,7 +158,7 @@
 **Links to work:** [Weather app - unfinished and very buggy](https://rachaelcodes.github.io/weathering/)
 
 
-### Day 10: January 10, 2016 
+### Day 10: January 10
 **Today's Progress:** Paired programming: supported a JS beginner, helping her debug her code
 
 **Thoughts:** I enjoyed helping someone think through their code, a reminder of where I've come from, and helped clarify the things I was less sure about (return only works once, right?)
@@ -154,7 +168,7 @@
 * Keep practicing CodeWars
 * add 'ignore' files [advice](https://help.github.com/articles/ignoring-files/)
 
-### Day 9: January 9, 2016 
+### Day 9: January 9
 **Today's Progress:** Not a lot finished, but revised Regexp for Codewars.
 
 **Thoughts:**  Tried the video tutorial again, but I don't think I'm at the right level yet, plus I prefer something that encourages more experimentation. Might take some ideas from them when I have a bit more JS knowledge,
@@ -164,7 +178,7 @@
 * Keep practicing CodeWars
 * add 'ignore' files [advice](https://help.github.com/articles/ignoring-files/)
 
-### Day 8: January 7, 2016 
+### Day 8: January 7
 **Today's Progress:** Reached 6kyu on Codewars.
 
 **Thoughts:** Satisfying levelling up. But have been struggling to focus after that. Tried a video tutorial for a js app, but think text works better for me.
@@ -176,7 +190,7 @@
 
 **Links to work:** [Codewars solutions](https://www.codewars.com/users/curiousrabbit/completed_solutions)
 
-### Day 7: January 6, 2016
+### Day 7: January 6
 **Today's Progress:** Completed the features of the styling randomizer. I could do more styling on it, but I want to focus on JS at the moment.
 
 **Thoughts:** First project seen all the way through! Woop!
@@ -189,7 +203,7 @@
 **Links to work:** [Styling Randomizer](https://rachaelcodes.github.io/styling-randomizer/)
 
 
-### Day 6: January 5, 2016
+### Day 6: January 5
 **Today's Progress:** Updated the container formatting of the styling randomizer (including using new flexbox knowledge). Added a new color change option with a 'focus' box. 
 
 **Thoughts:** It's really satisfying realizing my ideas for adapting and developing a project. Could have carried on longer, which I know means I've left it in a good space for tomorrow. 
@@ -201,7 +215,7 @@
 
 **Links to work:** [Styling Randomizer](https://rachaelcodes.github.io/styling-randomizer/)
 
-### Day 5: January 4, 2016
+### Day 5: January 4
 **Today's Progress:** Took a break from projects for some CodeWars practice. Which didn't go very well. Thought I nearly had it, then ended up with the error messages I couldn't parse.
 
 **Thoughts:** Disappointing day. It might be one where it's worth coming back to when I have a bit more knowledge. (Or next time I'm at a pair coding session)
@@ -213,7 +227,7 @@
 
 **Links to work:** not really worth it for today - it's on my CodeWars page (linked elsewhere)
 
-### Day 4: January 3, 2016
+### Day 4: January 3
 **Today's Progress:** Decided I wanted to use flexbox in the styling-randomizer; used [Flexbox Froggy](http://flexboxfroggy.com/) to learn it; did. Found I had a conflict between GitHub and home directory; sorted that. Created a help box for the styling-randomizer (looking up HTML5 alternatives to divs), but formatting still a bit horrible.
 
 **Thoughts:** I really like using projects to determine what skills I develop when. Unfortunately, various other hitches meant that I didn't really get the flexbox styling as I'd like it. Will probably need to revise tomorrow.
@@ -227,7 +241,7 @@ As expected, I needed reminders for using the Terminal commands. Formatting prob
 
 **Links to work:** [Styling Randomizer](https://rachaelcodes.github.io/styling-randomizer/)
 
-### Day 3: January 2, 2016
+### Day 3: January 2
 **Today's Progress:** Learnt how to use the Terminal. Then how to use the Terminal to add to projects on GitHub - added old styling randomizer files. Also added another [Enlight.ml](https://enlight.ml/) project folder to a new repo on GitHub - again, using the Terminal.
 
 **Thoughts:** How will I remember all those commands? I guess I'll be returning a lot to Terminal how-tos. 
@@ -241,7 +255,7 @@ Also, I made a very minor (>1 line of code) change to a file, which didn't get p
 
 **Links to work:** [Text Editor](https://github.com/rachaelcodes/text-editor) - it's a real mess at the moment.
 
-### Day 2: January 1, 2016 
+### Day 2: January 1, 2017 
 **UPDATE:** Completed an extra Codewars kata - a 5kyu one!
 
 **Today's Progress:** Completed first 6kyu challenge on CodeWars - BitCounting. Updating this log via GitHub desktop. Also, added licence to the GitHub profile page.
