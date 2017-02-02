@@ -1,4 +1,17 @@
 # 100 Days Of Code - Log
+### Day 26: Feb 2, 2017 
+**Today's Progress:** Putting basics of writing prompt generator code together.
+
+**Thoughts:** The API I'm using for random images doesn't let me reload, so tomorrow I'll be looking at using iframes to get it working
+
+**Next Steps:**
+* Create iframes for writing prompt generator; add instructions for users; image credits
+* Change API source to openweather, next stages of quote app, CSS daily images day 3
+* Keep practicing CodeWars (and look up how they've defined the function in the one I found weird); perhaps look out for more problems that involve mathematical thinking
+* add 'ignore' files [advice](https://help.github.com/articles/ignoring-files/)
+
+**Links to work:** [Writing prompt repo](https://github.com/rachaelcodes/story-lottery) 
+
 ### Day 25: Feb 1, 2017 
 **Today's Progress:** Not really coding, but preparing collections on Unsplash for writing prompt generator
 
