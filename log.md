@@ -1,4 +1,16 @@
 # 100 Days Of Code - Log
+### Days 27-30: Feb 5-10, 2017
+**Today's Progress:** Reached 5kyu in Codewars
+
+**Thoughts:** spent a couple of days streamlining algorithm, then managed to do a few challenges in a row. 
+
+**Next Steps:**
+* Create iframes for writing prompt generator; add instructions for users; image credits
+* Change API source to openweather, next stages of quote app, CSS daily images day 3
+* add 'ignore' files [advice](https://help.github.com/articles/ignoring-files/)
+
+**Links to work:** [Codewars solutions](https://www.codewars.com/users/curiousrabbit/completed_solutions)
+
 ### Day 26: Feb 2, 2017 
 **Today's Progress:** Putting basics of writing prompt generator code together.
 
