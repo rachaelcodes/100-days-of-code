@@ -1,4 +1,16 @@
 # 100 Days Of Code - Log
+### Day 31: Feb 12, 2017
+**Today's Progress:** Got iframes up and running in the story prompt generator
+
+**Thoughts:** Some frustrating problem solving needed, but most issues resolved. Can't shake feeling iframes are dated.
+
+**Next Steps:**
+* Add instructions for users for story prompt generator; image credits; look into scrolling for frames
+* Change API source to openweather, next stages of quote app, CSS daily images day 3
+* add 'ignore' files [advice](https://help.github.com/articles/ignoring-files/)
+
+**Links to work:** [Repo for story prompt generator](https://github.com/rachaelcodes/story-lottery)
+
 ### Days 27-30: Feb 5-10, 2017
 **Today's Progress:** Reached 5kyu in Codewars
 
