@@ -1,4 +1,16 @@
 # 100 Days Of Code - Log
+### Day 32: Feb 13, 2017
+**Today's Progress:** Finished basic writing prompt generator
+
+**Thoughts:** Some outstanding issues - removing potrait (rather than landscape) photos from the collection. Also, couldn't find way to get image scrolling, would work better with it.
+
+**Next Steps:**
+* Change API source to openweather 
+* Scrolling for images in writing prompt generator, next stages of quote app, CSS daily images day 3
+* add 'ignore' files [advice](https://help.github.com/articles/ignoring-files/)
+
+**Links to work:** [Story Prompt generator](https://rachaelcodes.github.io/story-lottery/)
+
 ### Day 31: Feb 12, 2017
 **Today's Progress:** Got iframes up and running in the story prompt generator
 
