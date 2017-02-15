@@ -1,4 +1,16 @@
 # 100 Days Of Code - Log
+### Day 33: Feb 15, 2017
+**Today's Progress:** Updated Weather app
+
+**Thoughts:** Much easier to add new API this time (learning's great, isn't it?), though there was one annoying moment when one element being called was embedded in an extra array.
+
+**Next Steps:**
+* Add F/C toggle button to weather app 
+* Scrolling for images in writing prompt generator, next stages of quote app, CSS daily images day 3
+* add 'ignore' files [advice](https://help.github.com/articles/ignoring-files/)
+
+**Links to work:** [Weather app](https://rachaelcodes.github.io/weathering/)
+
 ### Day 32: Feb 13, 2017
 **Today's Progress:** Finished basic writing prompt generator
 
