@@ -1,4 +1,15 @@
 # 100 Days Of Code - Log
+### Day 35: Feb 22, 2017
+**Today's Progress:** Writing tests for kata.
+
+**Thoughts:** Put in a little easter egg for anyone reading the tests (couldn't help myself!) :)
+
+**Next Steps:**
+* Create randomised tests for kata!
+* Add F/C toggle button to weather app 
+* Scrolling for images in writing prompt generator, next stages of quote app, CSS daily images day 3
+* add 'ignore' files [advice](https://help.github.com/articles/ignoring-files/)
+
 ### Day 34: Feb 20, 2017
 **Today's Progress:** Started work on creating a CodeWars kata.
 
