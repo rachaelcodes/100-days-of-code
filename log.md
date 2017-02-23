@@ -1,4 +1,16 @@
 # 100 Days Of Code - Log
+### Day 36: Feb 23, 2017
+**Today's Progress:** Starting putting kata on Codewars (including my solution)
+
+**Thoughts:** a couple of problems have come up: it says my JS is out of date (will x-ref code) and one of the tests isn't working - despite the solutions appearing to be identical
+
+**Next Steps:**
+* Create randomised tests for kata! Sort out problems and check against cheat techniques
+* Add F/C toggle button to weather app 
+* Scrolling for images in writing prompt generator, next stages of quote app, CSS daily images day 3
+* add 'ignore' files [advice](https://help.github.com/articles/ignoring-files/)
+
+
 ### Day 35: Feb 22, 2017
 **Today's Progress:** Writing tests for kata.
 
