@@ -1,4 +1,17 @@
 # 100 Days Of Code - Log
+
+### Day 37-8: Feb 25-27, 2017
+**Today's Progress:** published kata!
+
+**Thoughts:** gitter group was helpful for allaying my worries about a message saying the js was unsupported :)
+
+**Next Steps:**
+* Add F/C toggle button to weather app 
+* Scrolling for images in writing prompt generator, next stages of quote app, CSS daily images day 3
+* add 'ignore' files [advice](https://help.github.com/articles/ignoring-files/)
+
+**Links to work** [codewars kata](https://www.codewars.com/kata/58af4ed8673e88a719000116)
+
 ### Day 36: Feb 23, 2017
 **Today's Progress:** Starting putting kata on Codewars (including my solution)
 
