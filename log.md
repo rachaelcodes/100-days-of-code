@@ -1,9 +1,21 @@
 # 100 Days Of Code - Log
+### Day 40: March 2 (with prep on March 1), 2017
+**Today's Progress:** Started putting new one-page together
 
-### Day 37-8: Feb 25-27, 2017
-**Today's Progress:** published kata!
+**Thoughts:** it's still at the 'ugly' skeleton phase, but the bones are there 
 
-**Thoughts:** gitter group was helpful for allaying my worries about a message saying the js was unsupported :)
+**Next Steps:**
+* add image to one-page, more styling (plus a mouse-over effect)
+* Add F/C toggle button to weather app 
+* Scrolling for images in writing prompt generator, next stages of quote app, CSS daily images day 3
+* add 'ignore' files [advice](https://help.github.com/articles/ignoring-files/)
+
+**Links to work** [one-page portfolio](https://rachaelcodes.github.io/)
+
+### Day 37-9: Feb 25-28, 2017
+**Today's Progress:** Published kata! and editing based on comments.
+
+**Thoughts:** gitter group was helpful for allaying my worries about a message saying the js was unsupported :) Comments on Codewars were really helpful too.
 
 **Next Steps:**
 * Add F/C toggle button to weather app 
