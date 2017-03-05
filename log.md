@@ -1,4 +1,16 @@
 # 100 Days Of Code - Log
+### Day 41-2: March 4-5
+**Today's Progress:** Updating design for one-page and styling randomizer
+
+**Thoughts:** One-page now at a 'useable' state - a couple more tweaks needed (add own image, maybe smaller res jpg, and experiment more with colours of thumbnails). Styling randomizer looks a lot better with more text - page more balanced.
+
+**Next Steps:**
+* Add F/C toggle button to weather app 
+* Scrolling for images in writing prompt generator, next stages of quote app, CSS daily images day 3
+* add 'ignore' files [advice](https://help.github.com/articles/ignoring-files/)
+
+**Links to work** [one-page portfolio](https://rachaelcodes.github.io/)
+
 ### Day 40: March 2 (with prep on March 1), 2017
 **Today's Progress:** Started putting new one-page together
 
