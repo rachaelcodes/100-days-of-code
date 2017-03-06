@@ -1,4 +1,16 @@
 # 100 Days Of Code - Log
+### Day 43: March 6
+**Today's Progress:** Adding image to one-page
+
+**Thoughts:** Styling my photo on the one-page was surprisingly fiddly
+
+**Next Steps:**
+* Add F/C toggle button to weather app 
+* Scrolling for images in writing prompt generator, next stages of quote app, CSS daily images day 3
+* add 'ignore' files [advice](https://help.github.com/articles/ignoring-files/)
+
+**Links to work** [one-page portfolio](https://rachaelcodes.github.io/)
+
 ### Day 41-2: March 4-5
 **Today's Progress:** Updating design for one-page and styling randomizer
 
