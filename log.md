@@ -1,4 +1,14 @@
 # 100 Days Of Code - Log
+### Day 44: March 7
+**Today's Progress:** Codewars katas
+
+**Thoughts:** It's nice to do a bit of practice - and a good way to revise different JS methods.  
+
+**Next Steps:**
+* Add F/C toggle button to weather app 
+* Scrolling for images in writing prompt generator, next stages of quote app, CSS daily images day 3
+* add 'ignore' files [advice](https://help.github.com/articles/ignoring-files/)
+
 ### Day 43: March 6
 **Today's Progress:** Adding image to one-page
 
